@@ -1,0 +1,19 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "nome": "Caneta Preta",
+      "Preco": 2
+    },
+    {
+      "id": 2,
+      "nome": "Caneta Azul",
+      "Preco": 3
+    },
+    {
+      "id": 3,
+      "nome": "Caneta Rosa",
+      "Preco": 4
+    }
+  ]
+}
